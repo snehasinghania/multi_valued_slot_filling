@@ -1,0 +1,381 @@
+{"SubjectEntity": "Adenosine Diphosphate Ribose", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["nitrogen"], ["oxygen"], ["phosphorus"]]}
+{"SubjectEntity": "Aluminium Chlorohydrate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["aluminium"], ["chlorine"], ["hydrogen"]]}
+{"SubjectEntity": "Alvocidib", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["chlorine"], ["hydrogen"], ["nitrogen"], ["oxygen"]]}
+{"SubjectEntity": "Ammonia", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["nitrogen"]]}
+{"SubjectEntity": "Barium Permanganate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["barium"], ["manganese"], ["oxygen"]]}
+{"SubjectEntity": "Benzyl Alcohol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Cadaverine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["nitrogen"]]}
+{"SubjectEntity": "Calcitriol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Calcium Peroxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["calcium"], ["oxygen"]]}
+{"SubjectEntity": "Cantharidin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Carbonic Acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Citric Acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Corrin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["nitrogen"]]}
+{"SubjectEntity": "Cupric Phosphate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["copper"], ["oxygen"], ["phosphorus"]]}
+{"SubjectEntity": "DDT", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["chlorine"], ["hydrogen"]]}
+{"SubjectEntity": "Epinephrine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["nitrogen"], ["oxygen"]]}
+{"SubjectEntity": "Ethylcyclohexane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Fluphenazine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["fluorine"], ["hydrogen"], ["nitrogen"], ["oxygen"], ["sulfur"]]}
+{"SubjectEntity": "Fumaric Acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Harmaline", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["nitrogen"], ["oxygen"]]}
+{"SubjectEntity": "Hydrogen Bromide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["bromine"], ["hydrogen"]]}
+{"SubjectEntity": "Hydrogen Peroxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Hydrogen Sulfide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["sulfur"]]}
+{"SubjectEntity": "Isocyanic Acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["nitrogen"], ["oxygen"]]}
+{"SubjectEntity": "Magnesium Citrate", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["magnesium"], ["oxygen"]]}
+{"SubjectEntity": "Methacycline Hydrochloride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Methane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Methanol", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Morphine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["nitrogen"], ["oxygen"]]}
+{"SubjectEntity": "Nitric Acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["nitrogen"], ["oxygen"]]}
+{"SubjectEntity": "Nitromethane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["nitrogen"], ["oxygen"]]}
+{"SubjectEntity": "Nonadecane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Oleamide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["nitrogen"], ["oxygen"]]}
+{"SubjectEntity": "Oxepin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Progesterone", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["oxygen"]]}
+{"SubjectEntity": "Rubidium Hydroxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["hydrogen"], ["oxygen"], ["rubidium"]]}
+{"SubjectEntity": "Serotonin", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["nitrogen"], ["oxygen"]]}
+{"SubjectEntity": "Silicon Dioxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["silicon"]]}
+{"SubjectEntity": "Sodium Chloride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["chlorine"], ["sodium"]]}
+{"SubjectEntity": "Sodium Hypochlorite", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["chlorine"], ["oxygen"], ["sodium"]]}
+{"SubjectEntity": "Sphingosine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["nitrogen"], ["oxygen"]]}
+{"SubjectEntity": "Stibine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["antimony"], ["hydrogen"]]}
+{"SubjectEntity": "TNT", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["nitrogen"], ["oxygen"]]}
+{"SubjectEntity": "Tetradecane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Thiocyanic Acid", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["nitrogen"], ["sulfur"]]}
+{"SubjectEntity": "Titanium Tetrafluoride", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["fluorine"], ["titanium"]]}
+{"SubjectEntity": "Tridecane", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"]]}
+{"SubjectEntity": "Triethylamine", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["nitrogen"]]}
+{"SubjectEntity": "Trimethyl Phosphite", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["carbon"], ["hydrogen"], ["oxygen"], ["phosphorus"]]}
+{"SubjectEntity": "Yttrium Oxide", "Relation": "ChemicalCompoundElement", "ObjectEntities": [["oxygen"], ["yttrium"]]}
+{"SubjectEntity": "Albania", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["greece"], ["macedonia", "north macedonia"], ["montenegro"], ["serbia"]]}
+{"SubjectEntity": "Angola", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["congo", "democratic republic of the congo"], ["republic of the congo"], ["gabon"], ["namibia"], ["zambia"]]}
+{"SubjectEntity": "The Bahamas", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["united states of america", "usa"]]}
+{"SubjectEntity": "Belarus", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["latvia"], ["lithuania"], ["poland"], ["russia"], ["ukraine"]]}
+{"SubjectEntity": "Bosnia and Herzegovina", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["croatia"], ["montenegro"], ["serbia"]]}
+{"SubjectEntity": "Botswana", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["africa", "south africa"], ["namibia"], ["zambia"], ["zimbabwe"]]}
+{"SubjectEntity": "Bulgaria", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["greece"], ["macedonia", "north macedonia"], ["romania"], ["serbia"], ["turkey"]]}
+{"SubjectEntity": "Guatemala", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["belize"], ["el salvador", "salvador"], ["honduras"], ["mexico"]]}
+{"SubjectEntity": "Guinea-Bissau", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["guinea"], ["senegal"]]}
+{"SubjectEntity": "Hungary", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["austria"], ["croatia"], ["romania"], ["serbia"], ["slovakia"], ["slovenia"], ["ukraine"]]}
+{"SubjectEntity": "Iceland", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["faroe", "faroe islands"], ["greenland"], ["svalbard"]]}
+{"SubjectEntity": "India", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["bangladesh"], ["bhutan"], ["china", "people's republic of china"], ["indonesia"], ["myanmar"], ["nepal"], ["pakistan"], ["sri lanka"]]}
+{"SubjectEntity": "Iran", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["afghanistan"], ["armenia"], ["azerbaijan"], ["bahrain"], ["iraq"], ["kuwait"], ["nakhchivan", "nakhchivan autonomous republic"], ["oman"], ["pakistan"], ["qatar"], ["saudi", "saudi arabia"], ["turkey"], ["turkmenistan"], ["uae", "united arab emirates"]]}
+{"SubjectEntity": "Israel", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["egypt"], ["jordan"], ["lebanon"], ["syria"]]}
+{"SubjectEntity": "Italy", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["austria"], ["france"], ["malta"], ["san marino"], ["slovenia"], ["switzerland"], ["vatican", "vatican city"]]}
+{"SubjectEntity": "Kazakhstan", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["china", "people's republic of china"], ["kyrgyzstan"], ["russia"], ["turkmenistan"], ["uzbekistan"]]}
+{"SubjectEntity": "Kyrgyzstan", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["china", "people's republic of china"], ["kazakhstan"], ["tajikistan"], ["uzbekistan"]]}
+{"SubjectEntity": "Latvia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["belarus"], ["estonia"], ["lithuania"], ["russia"], ["sweden"]]}
+{"SubjectEntity": "Lesotho", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["africa", "south africa"]]}
+{"SubjectEntity": "Lithuania", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["belarus"], ["latvia"], ["poland"], ["russia"]]}
+{"SubjectEntity": "Mali", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["algeria"], ["burkina faso"], ["guinea"], ["ivory coast"], ["mauritania"], ["niger"], ["senegal"]]}
+{"SubjectEntity": "Mauritania", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["algeria"], ["mali"], ["sahara", "western sahara"], ["senegal"]]}
+{"SubjectEntity": "Monaco", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["france"]]}
+{"SubjectEntity": "Mongolia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["china", "people's republic of china"], ["russia"]]}
+{"SubjectEntity": "Republic of Ireland", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["ireland", "northern ireland"], ["uk", "united kingdom"]]}
+{"SubjectEntity": "Saint Vincent and the Grenadines", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["venezuela"]]}
+{"SubjectEntity": "San Marino", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["italy"]]}
+{"SubjectEntity": "Senegal", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["bissau", "guinea-bissau"], ["gambia", "the gambia"], ["guinea"], ["mali"], ["mauritania"]]}
+{"SubjectEntity": "Suriname", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["brazil"], ["france"], ["french guiana", "guiana"], ["guyana"]]}
+{"SubjectEntity": "Taiwan", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["china", "people's republic of china"], ["japan"], ["philippines"]]}
+{"SubjectEntity": "Tunisia", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["algeria"], ["libya"]]}
+{"SubjectEntity": "Turkmenistan", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["afghanistan"], ["iran"], ["kazakhstan"], ["uzbekistan"]]}
+{"SubjectEntity": "United Arab Emirates", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["iran"], ["oman"], ["saudi", "saudi arabia"]]}
+{"SubjectEntity": "United States of America", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["canada"], ["mexico"]]}
+{"SubjectEntity": "Yemen", "Relation": "CountryBordersWithCountry", "ObjectEntities": [["oman"], ["saudi", "saudi arabia"]]}
+{"SubjectEntity": "Afghanistan", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"], ["baluchi"], ["dari"], ["nuristani"], ["pamir"], ["pashayi"], ["pashto"], ["turkmen"], ["uzbek"]]}
+{"SubjectEntity": "Antigua and Barbuda", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Belarus", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["belarusian"], ["russian"]]}
+{"SubjectEntity": "Bolivia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["aymara"], ["guarani"], ["quechua"], ["spanish"]]}
+{"SubjectEntity": "Bosnia and Herzegovina", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["bosnian"], ["croatian"], ["serbian"]]}
+{"SubjectEntity": "Brazil", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["portuguese"]]}
+{"SubjectEntity": "Cameroon", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["french"]]}
+{"SubjectEntity": "People's Republic of China", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["chinese"], ["mandarin", "standard mandarin"]]}
+{"SubjectEntity": "Colombia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["spanish"]]}
+{"SubjectEntity": "Cyprus", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["greek"], ["modern greek"], ["turkish"]]}
+{"SubjectEntity": "Democratic Republic of the Congo", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["french"]]}
+{"SubjectEntity": "Dominican Republic", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["spanish"]]}
+{"SubjectEntity": "East Timor", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["portuguese"], ["tetum"]]}
+{"SubjectEntity": "Estonia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["estonian"]]}
+{"SubjectEntity": "France", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["french"]]}
+{"SubjectEntity": "Gabon", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["french"]]}
+{"SubjectEntity": "Georgia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["abkhaz"], ["georgian"]]}
+{"SubjectEntity": "India", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["hindi"]]}
+{"SubjectEntity": "Indonesia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["indonesian"], ["javanese"]]}
+{"SubjectEntity": "Iraq", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"], ["kurdish"]]}
+{"SubjectEntity": "Kiribati", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["gilbertese"]]}
+{"SubjectEntity": "Madagascar", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["french"], ["malagasy"]]}
+{"SubjectEntity": "Marshall Islands", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["marshallese"]]}
+{"SubjectEntity": "Mauritania", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
+{"SubjectEntity": "Moldova", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["moldovan"], ["romanian"]]}
+{"SubjectEntity": "Mongolia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["mongolian"]]}
+{"SubjectEntity": "North Macedonia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["albanian"], ["macedonian"]]}
+{"SubjectEntity": "Oman", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
+{"SubjectEntity": "Papua New Guinea", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["hiri motu"], ["tok pisin"]]}
+{"SubjectEntity": "Peru", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["aymara"], ["quechua"], ["spanish"]]}
+{"SubjectEntity": "Republic of the Congo", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["french"]]}
+{"SubjectEntity": "Russia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["russian"]]}
+{"SubjectEntity": "Samoa", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["samoan"]]}
+{"SubjectEntity": "Serbia", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["serbian"]]}
+{"SubjectEntity": "Solomon Islands", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"]]}
+{"SubjectEntity": "Sri Lanka", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["sinhala"], ["tamil"]]}
+{"SubjectEntity": "State of Palestine", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
+{"SubjectEntity": "Suriname", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["dutch"]]}
+{"SubjectEntity": "Sweden", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["swedish"]]}
+{"SubjectEntity": "Syria", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["arabic"]]}
+{"SubjectEntity": "Tajikistan", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["russian"], ["tajik"]]}
+{"SubjectEntity": "Tanzania", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["swahili"]]}
+{"SubjectEntity": "Thailand", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["thai"]]}
+{"SubjectEntity": "Tuvalu", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["english"], ["tuvaluan"]]}
+{"SubjectEntity": "United States of America", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["american english", "english"]]}
+{"SubjectEntity": "Zimbabwe", "Relation": "CountryOfficialLanguage", "ObjectEntities": [["barwe"], ["chewa"], ["english"], ["kalanga"], ["khoisan"], ["nambya"], ["ndau"], ["ndebele", "northern ndebele"], ["sesotho"], ["shona"], ["tonga"], ["tsonga"], ["tswana"], ["venda"], ["xhosa"], ["zimbabwean", "zimbabwe sign language"]]}
+{"SubjectEntity": "Anton Newcombe", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Aviv Geffen", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"], ["piano"], ["trumpet"]]}
+{"SubjectEntity": "Bruce Hornsby", "Relation": "PersonInstrument", "ObjectEntities": [["accordion"], ["piano"]]}
+{"SubjectEntity": "Bruce Springsteen", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"], ["harmonica"], ["piano"]]}
+{"SubjectEntity": "Celine Dion", "Relation": "PersonInstrument", "ObjectEntities": [["piano"]]}
+{"SubjectEntity": "Chris Cornell", "Relation": "PersonInstrument", "ObjectEntities": [["bass guitar", "bass"], ["drum", "drum kit"], ["guitar"], ["harmonica"], ["mandolin"], ["piano"], ["violin"]]}
+{"SubjectEntity": "Chuck Berry", "Relation": "PersonInstrument", "ObjectEntities": [["fender stratocaster", "strat"], ["fender telecaster", "telecaster"], ["guitar"]]}
+{"SubjectEntity": "David Coverdale", "Relation": "PersonInstrument", "ObjectEntities": [["bass guitar", "bass"], ["guitar"], ["keyboard", "keyboard instrument"], ["percussion", "percussion instrument"]]}
+{"SubjectEntity": "Dizzy Gillespie", "Relation": "PersonInstrument", "ObjectEntities": [["trompe"], ["trumpet"]]}
+{"SubjectEntity": "Ed Sheeran", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"], ["live looper"]]}
+{"SubjectEntity": "Elvis Presley", "Relation": "PersonInstrument", "ObjectEntities": [["fortepiano"], ["guitar"], ["piano"]]}
+{"SubjectEntity": "Emmanuel Pahud", "Relation": "PersonInstrument", "ObjectEntities": [["flute"]]}
+{"SubjectEntity": "Eunhyuk", "Relation": "PersonInstrument", "ObjectEntities": [["piano"]]}
+{"SubjectEntity": "Flea", "Relation": "PersonInstrument", "ObjectEntities": [["bass guitar", "guitar"]]}
+{"SubjectEntity": "Florence Welch", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Frank Sinatra", "Relation": "PersonInstrument", "ObjectEntities": [["castanets"], ["drum", "friction drum"], ["triangle"], ["ukulele"]]}
+{"SubjectEntity": "Garth Brooks", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"], ["harmonica"], ["piano"], ["saxophone"]]}
+{"SubjectEntity": "Geezer Butler", "Relation": "PersonInstrument", "ObjectEntities": [["bass"], ["bass guitar", ""], ["guitar"]]}
+{"SubjectEntity": "Henry Lau", "Relation": "PersonInstrument", "ObjectEntities": [["drum"], ["guitar"], ["piano"], ["violin"]]}
+{"SubjectEntity": "Jagjit Singh", "Relation": "PersonInstrument", "ObjectEntities": [["piano"], ["tambura"]]}
+{"SubjectEntity": "James Brown", "Relation": "PersonInstrument", "ObjectEntities": [["drum", "drum kit"], ["guitar"], ["organ"]]}
+{"SubjectEntity": "Jared Followill", "Relation": "PersonInstrument", "ObjectEntities": [["piano"]]}
+{"SubjectEntity": "Joe Perry", "Relation": "PersonInstrument", "ObjectEntities": [["bass guitar", "bass"], ["guitar"]]}
+{"SubjectEntity": "Joseph Hahn", "Relation": "PersonInstrument", "ObjectEntities": [["keyboard", "keyboard instrument"]]}
+{"SubjectEntity": "Justin Timberlake", "Relation": "PersonInstrument", "ObjectEntities": [["beatboxing"], ["guitar"], ["keyboard", "keyboard instrument"], ["piano"]]}
+{"SubjectEntity": "Keith Richards", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Lady Gaga", "Relation": "PersonInstrument", "ObjectEntities": [["acoustic guitar", "acoustic"], ["drum", "drum kit"], ["electric guitar", "electric"], ["guitar"], ["keytar"], ["piano"], ["synthesizer"]]}
+{"SubjectEntity": "Lee Kiseop", "Relation": "PersonInstrument", "ObjectEntities": [["piano"]]}
+{"SubjectEntity": "Liam Payne", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"], ["piano"]]}
+{"SubjectEntity": "Ludwig van Beethoven", "Relation": "PersonInstrument", "ObjectEntities": [["piano"], ["violin"]]}
+{"SubjectEntity": "Marvin Gaye", "Relation": "PersonInstrument", "ObjectEntities": [["piano"]]}
+{"SubjectEntity": "Matt Bellamy", "Relation": "PersonInstrument", "ObjectEntities": [["clarinet"], ["guitar"], ["keyboard", "keyboard instrument"], ["keyboard", "musical keyboard"], ["keytar"], ["mandolin"], ["piano"]]}
+{"SubjectEntity": "Micachu", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Michael Jackson", "Relation": "PersonInstrument", "ObjectEntities": [["drum", "drum kit"], ["percussion", "percussion instrument"], ["piano"]]}
+{"SubjectEntity": "Mike Portnoy", "Relation": "PersonInstrument", "ObjectEntities": [["drum", "drum kit"]]}
+{"SubjectEntity": "Neil Diamond", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"], ["piano"]]}
+{"SubjectEntity": "Nichkhun", "Relation": "PersonInstrument", "ObjectEntities": [["keyboard", "keyboard instrument"]]}
+{"SubjectEntity": "Nick Carter", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Nikki Sixx", "Relation": "PersonInstrument", "ObjectEntities": [["bass guitar", "bass"], ["guitar"]]}
+{"SubjectEntity": "Paul McCartney", "Relation": "PersonInstrument", "ObjectEntities": [["bass", "double bass"], ["bass guitar"], ["cello"], ["guitar"], ["keyboard", "keyboard instrument"], ["mandolin"], ["melodica"], ["percussion", "percussion instrument"], ["piano"], ["recorder"], ["sitar"], ["trumpet"], ["ukulele"], ["violin"]]}
+{"SubjectEntity": "Ravi Shankar", "Relation": "PersonInstrument", "ObjectEntities": [["sitar"]]}
+{"SubjectEntity": "Ray Toro", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"], ["percussion", "percussion instrument"]]}
+{"SubjectEntity": "Robert Plant", "Relation": "PersonInstrument", "ObjectEntities": [["harmonica"]]}
+{"SubjectEntity": "Ryosuke Nagaoka", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Sufjan Stevens", "Relation": "PersonInstrument", "ObjectEntities": [["banjo"], ["guitar"], ["oboe"], ["percussion", "percussion instrument"], ["piano"], ["woodwind", "woodwind instrument"]]}
+{"SubjectEntity": "Taylor York", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Tom Petty", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Yoon Doo-joon", "Relation": "PersonInstrument", "ObjectEntities": [["piano"]]}
+{"SubjectEntity": "Zakir Hussain", "Relation": "PersonInstrument", "ObjectEntities": [["percussion", "percussion instrument"], ["tabla"]]}
+{"SubjectEntity": "Zakk Wylde", "Relation": "PersonInstrument", "ObjectEntities": [["guitar"]]}
+{"SubjectEntity": "Alejandro Sanz", "Relation": "PersonLanguage", "ObjectEntities": [["catalan"], ["italian"], ["portuguese"], ["spanish"]]}
+{"SubjectEntity": "Amr Waked", "Relation": "PersonLanguage", "ObjectEntities": [["arabic"], ["english"], ["french"]]}
+{"SubjectEntity": "Amrullah Saleh", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["pashto"], ["persian"]]}
+{"SubjectEntity": "Ana Maria Braga", "Relation": "PersonLanguage", "ObjectEntities": [["brazilian portuguese", "brazilian"], ["italian"], ["portuguese"]]}
+{"SubjectEntity": "Anggun", "Relation": "PersonLanguage", "ObjectEntities": [["dutch"], ["english"], ["french"], ["indonesian"], ["italian"], ["javanese"]]}
+{"SubjectEntity": "Azmi Bishara", "Relation": "PersonLanguage", "ObjectEntities": [["arabic"], ["english"], ["german"], ["hebrew"]]}
+{"SubjectEntity": "Basim al-Karbalaei", "Relation": "PersonLanguage", "ObjectEntities": [["arabic"], ["mesopotamian", "mesopotamian arabic"], ["persian"]]}
+{"SubjectEntity": "Candice Swanepoel", "Relation": "PersonLanguage", "ObjectEntities": [["afrikaans"], ["english"], ["portuguese"]]}
+{"SubjectEntity": "Caroline Wozniacki", "Relation": "PersonLanguage", "ObjectEntities": [["danish"], ["english"], ["polish"]]}
+{"SubjectEntity": "DJ Snake", "Relation": "PersonLanguage", "ObjectEntities": [["arabic"], ["english"], ["french"]]}
+{"SubjectEntity": "Deddy Corbuzier", "Relation": "PersonLanguage", "ObjectEntities": [["chinese"], ["english"], ["indonesian"]]}
+{"SubjectEntity": "Dulquer Salmaan", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["hindi"], ["malayalam"], ["tamil"], ["telugu"]]}
+{"SubjectEntity": "Franco De Vita", "Relation": "PersonLanguage", "ObjectEntities": [["italian"], ["portuguese"], ["spanish"]]}
+{"SubjectEntity": "Genelia D'Souza", "Relation": "PersonLanguage", "ObjectEntities": [["hindi"], ["malayalam"], ["tamil"], ["telugu"]]}
+{"SubjectEntity": "Gerard Piqu\u00e9", "Relation": "PersonLanguage", "ObjectEntities": [["catalan"], ["english"], ["spanish"]]}
+{"SubjectEntity": "Giada De Laurentiis", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["french"], ["italian"]]}
+{"SubjectEntity": "Joko Widodo", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["indonesian"], ["javanese"]]}
+{"SubjectEntity": "Juan Pablo Montoya", "Relation": "PersonLanguage", "ObjectEntities": [["colombiano spanish", "colombiano"], ["english"], ["latin american spanish", "latin", "american"], ["spanish"]]}
+{"SubjectEntity": "Kevin De Bruyne", "Relation": "PersonLanguage", "ObjectEntities": [["dutch"], ["english"], ["french"], ["german"]]}
+{"SubjectEntity": "Khabib Nurmagomedov", "Relation": "PersonLanguage", "ObjectEntities": [["avaric"], ["english"], ["russian"]]}
+{"SubjectEntity": "Laura Pausini", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["french"], ["italian"], ["portuguese"], ["spanish"]]}
+{"SubjectEntity": "Lele Pons", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["italian"], ["spanish"]]}
+{"SubjectEntity": "Mahmoud El Esseily", "Relation": "PersonLanguage", "ObjectEntities": [["arabic"], ["english"], ["french"]]}
+{"SubjectEntity": "Mamata Banerjee", "Relation": "PersonLanguage", "ObjectEntities": [["bengali"], ["english"], ["hindi"]]}
+{"SubjectEntity": "Matamela Cyril Ramaphosa", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["northern sotho", "sotho"], ["venda"], ["xhosa"], ["zulu"]]}
+{"SubjectEntity": "Miguel Bos\u00e9", "Relation": "PersonLanguage", "ObjectEntities": [["catalan"], ["english"], ["french"], ["italian"], ["spanish"]]}
+{"SubjectEntity": "Milla Jovovich", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["french"], ["russian"], ["serbian"]]}
+{"SubjectEntity": "Mitt Romney", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["french"]]}
+{"SubjectEntity": "Nandan Nilekani", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["hindi"], ["kannada"], ["konkani"], ["marathi"]]}
+{"SubjectEntity": "Nasir Ahmad el-Rufai", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["hausa"], ["nigerian", "nigerian pidgin"]]}
+{"SubjectEntity": "Naveen Patnaik", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["hindi"], ["odia"]]}
+{"SubjectEntity": "Ngozi Okonjo-Iweala", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["igbo"], ["nigerian", "nigerian pidgin"]]}
+{"SubjectEntity": "Novak Djokovic", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["french"], ["german"], ["italian"], ["serbian"]]}
+{"SubjectEntity": "Pabllo Vittar", "Relation": "PersonLanguage", "ObjectEntities": [["brazilian portuguese", "portuguese"], ["english"], ["portuguese"]]}
+{"SubjectEntity": "Pau Gasol", "Relation": "PersonLanguage", "ObjectEntities": [["catalan"], ["english"], ["french"], ["italian"], ["spanish"]]}
+{"SubjectEntity": "Raadhika Sarathkumar", "Relation": "PersonLanguage", "ObjectEntities": [["hindi"], ["malayalam"], ["tamil"], ["telugu"]]}
+{"SubjectEntity": "Rashmika Mandanna", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["hindi"], ["kannada"], ["telugu"]]}
+{"SubjectEntity": "Reminisce", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["nigerian", "nigerian pidgin"], ["yoruba"]]}
+{"SubjectEntity": "Satya Nadella", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["telugu"]]}
+{"SubjectEntity": "Sepp Blatter", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["german"], ["swiss", "swiss german"]]}
+{"SubjectEntity": "Shubhi Sharma", "Relation": "PersonLanguage", "ObjectEntities": [["bhojpuri"], ["english"], ["hindi"], ["rajasthani"]]}
+{"SubjectEntity": "Thomas Pesquet", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["french"], ["german"], ["russian"], ["spanish"]]}
+{"SubjectEntity": "Tiziano Ferro", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["french"], ["italian"], ["portuguese"], ["spanish"]]}
+{"SubjectEntity": "Tun\u00e7 Soyer", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["french"], ["turkish"]]}
+{"SubjectEntity": "Vladimir Zhirinovsky", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["french"], ["german"], ["russian"], ["turkish"]]}
+{"SubjectEntity": "William Ruto", "Relation": "PersonLanguage", "ObjectEntities": [["english"], ["kalenjin"], ["swahili"]]}
+{"SubjectEntity": "Xabi Alonso", "Relation": "PersonLanguage", "ObjectEntities": [["basque"], ["english"], ["german"], ["spanish"]]}
+{"SubjectEntity": "Yosra El Lozy", "Relation": "PersonLanguage", "ObjectEntities": [["arabic"], ["english"], ["french"]]}
+{"SubjectEntity": "Zayn Malik", "Relation": "PersonLanguage", "ObjectEntities": [["arabic"], ["british english", "english"], ["urdu"]]}
+{"SubjectEntity": "Zlatan Ibrahimovi\u0107", "Relation": "PersonLanguage", "ObjectEntities": [["bosnian"], ["english"], ["italian"], ["spanish"], ["swedish"]]}
+{"SubjectEntity": "Amr Diab", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["artist", "performing artist"], ["recording", "recording artist"], ["businessperson"], ["composer"], ["entrepreneur"], ["musician"], ["producer", "record producer", "record"], ["singer"], ["songwriter", "singer-songwriter"]]}
+{"SubjectEntity": "Avril Lavigne", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["voice", "voice actor"], ["artist", "recording artist"], ["composer"], ["designer", "fashion designer"], ["philanthropist"], ["singer"], ["songwriter", "singer-songwriter"]]}
+{"SubjectEntity": "Bryan Cranston", "Relation": "PersonProfession", "ObjectEntities": [["film", "film actor"], ["actor", "stage actor"], ["television", "television actor"], ["voice", "voice actor"], ["director", "film director"], ["executive producer", "producer"], ["screenwriter"]]}
+{"SubjectEntity": "Caitlyn Jenner", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["television", "television actor"], ["athletics competitor"], ["businessperson"], ["commentator", "sports commentator"], ["driver", "racing automobile driver"], ["film producer", "producer"], ["model"], ["motivational speaker"]]}
+{"SubjectEntity": "Chris Rock", "Relation": "PersonProfession", "ObjectEntities": [["film", "film actor"], ["actor", "television actor"], ["voice", "voice actor"], ["comedian"], ["director", "film director"], ["film producer", "producer"], ["presenter", "television presenter"], ["television", "television producer"], ["screenwriter"]]}
+{"SubjectEntity": "Christina Milian", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["television", "television actor"], ["artist", "recording artist"], ["composer"], ["dancer"], ["model"], ["musician"], ["producer", "record producer", "record"], ["singer"], ["songwriter"]]}
+{"SubjectEntity": "Daniel Tosh", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["television", "television actor"], ["voice", "voice actor"], ["comedian"], ["dancer"], ["director", "film director"], ["executive producer", "producer"], ["presenter", "television presenter"], ["screenwriter"], ["singer"]]}
+{"SubjectEntity": "Danny Glover", "Relation": "PersonProfession", "ObjectEntities": [["activist", "peace activist"], ["actor"], ["character", "character actor"], ["film", "film actor"], ["television", "television actor"], ["voice", "voice actor"], ["director", "film director"], ["executive producer", "producer"], ["singer"]]}
+{"SubjectEntity": "Dmitry Malikov", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["composer"], ["manufacturer"], ["pianist"], ["presenter"], ["presenter", "television presenter"], ["producer", "record producer", "record"], ["singer"], ["songwriter"]]}
+{"SubjectEntity": "Ellen DeGeneres", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["television", "television actor"], ["voice", "voice actor"], ["comedian"], ["host", "talk show host"], ["presenter"], ["presenter", "television presenter"], ["producer", "television producer"], ["screenwriter"], ["writer"]]}
+{"SubjectEntity": "Ellie Goulding", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["artist", "recording artist"], ["composer"], ["drummer"], ["guitarist"], ["instrumentalist", "multi-instrumentalist"], ["pianist"], ["producer", "record producer", "record"], ["singer"], ["songwriter"]]}
+{"SubjectEntity": "Emma Bunton", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["voice", "voice actor"], ["artist", "recording artist"], ["karateka"], ["model"], ["presenter", "television presenter"], ["radio personality"], ["singer"], ["songwriter", "singer-songwriter"]]}
+{"SubjectEntity": "Farhan Akhtar", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["director", "film director"], ["film producer", "producer"], ["lyricist"], ["presenter", "television presenter"], ["screenwriter"], ["singer"], ["songwriter"]]}
+{"SubjectEntity": "George R. R. Martin", "Relation": "PersonProfession", "ObjectEntities": [["blogger"], ["contributing editor"], ["film producer", "film"], ["novelist"], ["playwright"], ["television", "producer", "television producer"], ["prosaist"], ["science fiction writer", "fiction"], ["screenwriter"], ["writer"]]}
+{"SubjectEntity": "Gloria Trevi", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["television", "television actor"], ["artist", "recording artist"], ["cartoonist"], ["dancer"], ["designer", "fashion designer"], ["entrepreneur"], ["human trafficking"], ["presenter", "television presenter"], ["singer"], ["songwriter", "singer-songwriter"]]}
+{"SubjectEntity": "Hank Green", "Relation": "PersonProfession", "ObjectEntities": [["businessperson"], ["communicator", "science communicator"], ["environmentalist"], ["inventor"], ["musician"], ["novelist"], ["podcaster"], ["producer", "television producer"], ["songwriter"], ["teacher"], ["writer"], ["youtuber"]]}
+{"SubjectEntity": "Idris Elba", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["stage", "stage actor"], ["television", "television actor"], ["composer"], ["director", "film director"], ["disc jockey", "dj"], ["producer", "record producer", "record"]]}
+{"SubjectEntity": "Jake Paul", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["television", "television actor"], ["blogger", "video blogger"], ["boxer"], ["comedian"], ["internet celebrity"], ["model"], ["musician"], ["producer", "television producer"], ["youtuber"]]}
+{"SubjectEntity": "Jamel Debbouze", "Relation": "PersonProfession", "ObjectEntities": [["film", "film actor"], ["actor", "television actor"], ["artist", "cabaret artist"], ["comedian"], ["director", "film director"], ["film producer", "producer"], ["manufacturer"], ["radio personality"], ["screenwriter"], ["showman"]]}
+{"SubjectEntity": "James Corden", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["stage", "stage actor"], ["television", "television actor"], ["autobiographer"], ["comedian"], ["film producer", "producer"], ["presenter", "television presenter"], ["screenwriter"]]}
+{"SubjectEntity": "Jared Leto", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["television", "television actor"], ["voice", "voice actor"], ["businessperson"], ["composer"], ["director"], ["guitarist"], ["keyboardist"], ["manufacturer"], ["model"], ["painter"], ["photographer"], ["pianist"], ["producer", "record producer", "record"], ["singer"], ["songwriter", "singer-songwriter"]]}
+{"SubjectEntity": "Jason Derulo", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["composer"], ["dancer"], ["musician"], ["producer", "record producer", "record"], ["rapper"], ["singer"], ["songwriter"], ["vocalist"]]}
+{"SubjectEntity": "Jay-Z", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["businessperson"], ["composer"], ["designer", "fashion designer"], ["director", "film director"], ["drug trafficker"], ["entrepreneur"], ["executive", "music executive"], ["film producer", "film"], ["investor"], ["philanthropist"], ["producer", "record producer", "record"], ["television", "television producer"], ["rapper"], ["singer"], ["songwriter"], ["sports agent"]]}
+{"SubjectEntity": "Jennette McCurdy", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["television", "television actor"], ["voice", "voice actor"], ["columnist"], ["musician"], ["screenwriter"], ["singer"], ["songwriter"]]}
+{"SubjectEntity": "Jennifer Lopez", "Relation": "PersonProfession", "ObjectEntities": [["film", "film actor"], ["actor", "television actor"], ["voice", "voice actor"], ["autobiographer"], ["choreographer"], ["dancer"], ["designer", "fashion designer"], ["director", "film director"], ["model"], ["producer", "record producer", "record"], ["television", "television producer"], ["restaurateur"], ["songwriter", "singer-songwriter"]]}
+{"SubjectEntity": "Jon Favreau", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["character", "character actor"], ["film", "film actor"], ["television", "television actor"], ["voice", "voice actor"], ["director", "film director"], ["producer", "television producer"], ["screenwriter"], ["showrunner"], ["writer"]]}
+{"SubjectEntity": "Judd Apatow", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["television", "television actor"], ["voice", "voice actor"], ["director", "film director"], ["producer", "television producer"], ["screenwriter"], ["showrunner"], ["writer"]]}
+{"SubjectEntity": "Kanye West", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["architect"], ["artist"], ["blogger"], ["businessperson"], ["designer", "fashion designer"], ["director", "film director"], ["producer", "record producer", "record"], ["rapper"], ["restaurateur"], ["singer"], ["songwriter"]]}
+{"SubjectEntity": "Kelly Clarkson", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["voice", "voice actor"], ["artist", "recording artist"], ["composer"], ["musician"], ["producer", "record producer", "record"], ["singer"], ["songwriter", "singer-songwriter"], ["writer"]]}
+{"SubjectEntity": "Kelly Rowland", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["television", "television actor"], ["artist", "recording artist"], ["composer"], ["dancer"], ["model"], ["musician"], ["singer"], ["songwriter", "singer-songwriter"]]}
+{"SubjectEntity": "Kevin Smith", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["television", "television actor"], ["blogger"], ["director", "film director"], ["editor", "film editor"], ["podcaster"], ["producer", "television producer"], ["screenwriter"], ["writer"]]}
+{"SubjectEntity": "Lee Dong-hae", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["television", "television actor"], ["artist"], ["composer"], ["model"], ["pianist"], ["singer"],  ["songwriter"]]}
+{"SubjectEntity": "Lena Dunham", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["television", "television actor"], ["voice", "voice actor"], ["director", "film director"], ["producer", "television producer"], ["screenwriter"], ["showrunner"], ["writer"]]}
+{"SubjectEntity": "Liam Payne", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["artist", "recording artist"], ["humanitarian"], ["influencer"], ["model"], ["singer"], ["songwriter"], ["youtuber"]]}
+{"SubjectEntity": "Ludacris", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["television", "television actor"], ["voice", "voice actor"], ["businessperson"], ["composer"], ["entrepreneur"], ["manager", "talent manager"], ["musician"], ["producer", "record producer", "record"], ["rapper"], ["singer"]]}
+{"SubjectEntity": "Mariah Carey", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["voice", "voice actor"], ["artist", "recording artist"], ["businessperson"], ["composer"], ["director", "music video director"], ["entertainer"], ["film producer", "film"], ["model"], ["music producer", "producer", "music"], ["philanthropist"], ["singer"], ["songwriter", "singer-songwriter"]]}
+{"SubjectEntity": "Mike Epps", "Relation": "PersonProfession", "ObjectEntities": [["film", "film actor"], ["actor", "television actor"], ["voice", "voice actor"], ["comedian"], ["director"], ["film producer", "producer"], ["rapper"], ["screenwriter"], ["singer"], ["writer"]]}
+{"SubjectEntity": "Missy Elliott", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["television", "television actor"], ["artist", "recording artist"], ["composer"], ["dancer"], ["producer", "record producer", "record"], ["rapper"], ["singer"], ["songwriter", "singer-songwriter"]]}
+{"SubjectEntity": "Nick Jonas", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["stage", "stage actor"], ["television", "television actor"], ["artist", "recording artist"], ["composer"], ["guitarist"], ["pianist"], ["singer"], ["songwriter", "singer-songwriter"]]}
+{"SubjectEntity": "Nick Kroll", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["television", "television actor"], ["voice", "voice actor"], ["comedian"], ["dancer"], ["director", "film director"], ["producer", "television producer"], ["screenwriter"], ["singer"]]}
+{"SubjectEntity": "Oprah Winfrey", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["voice", "voice actor"], ["autobiographer"], ["businessperson"], ["film producer", "film"], ["host", "talk show host"], ["journalist"], ["motivational speaker"], ["podcaster"], ["presenter", "television presenter"], ["producer", "television producer"], ["reporter"], ["writer"]]}
+{"SubjectEntity": "Ricky Gervais", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["television", "television actor"], ["voice", "voice actor"], ["comedian"], ["director", "film director"], ["musician"], ["presenter", "television presenter"], ["producer", "television producer"], ["radio personality"], ["screenwriter"], ["writer"]]}
+{"SubjectEntity": "Rosie O'Donnell", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["stage", "stage actor"], ["television", "television actor"], ["voice", "voice actor"], ["blogger"], ["comedian", "stand-up comedian"], ["manufacturer"], ["presenter", "television presenter"], ["producer", "television producer"], ["singer"], ["writer"]]}
+{"SubjectEntity": "Selena Gomez", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["television", "television actor"], ["voice", "voice actor"], ["designer", "fashion designer"], ["model"], ["producer", "record producer", "record"], ["singer"], ["songwriter"]]}
+{"SubjectEntity": "Suze Orman", "Relation": "PersonProfession", "ObjectEntities": [["businessperson"], ["financial adviser"], ["investor"], ["motivational speaker"], ["podcaster"], ["presenter", "television presenter"], ["restaurateur"], ["screenwriter"], ["writer"]]}
+{"SubjectEntity": "Tyrese Gibson", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["television", "television actor"], ["composer"], ["disc jockey", "dj"], ["film producer", "producer"], ["model"], ["musician"], ["rapper"], ["singer"]]}
+{"SubjectEntity": "Volodymyr Zelenskyy", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["kvn actor"], ["comedian"], ["entertainer"], ["film producer", "film"], ["filmmaker"], ["humorist"], ["impressionist"], ["jurist"], ["military personnel"], ["politician"], ["presenter"], ["presenter", "television presenter"], ["producer", "television producer"], ["screenwriter"], ["showman"], ["singer"]]}
+{"SubjectEntity": "Whoopi Goldberg", "Relation": "PersonProfession", "ObjectEntities": [["actor", "character actor"], ["film", "film actor"], ["stage", "stage actor"], ["television", "television actor"], ["voice", "voice actor"], ["comedian"], ["composer"], ["host", "talk show host"], ["manufacturer"], ["novelist"], ["presenter", "television presenter"], ["producer", "television producer"], ["theatrical", "theatrical producer"], ["radio personality"], ["screenwriter"], ["singer"], ["songwriter", "singer-songwriter"], ["writer"]]}
+{"SubjectEntity": "Yoko Ono", "Relation": "PersonProfession", "ObjectEntities": [["activist", "peace activist"], ["artist"], ["composer"], ["director", "film director"], ["filmmaker"], ["musician"], ["painter"], ["photographer"], ["sculptor"], ["singer"]]}
+{"SubjectEntity": "Zooey Deschanel", "Relation": "PersonProfession", "ObjectEntities": [["actor"], ["film", "film actor"], ["television", "television actor"], ["voice", "voice actor"], ["artist", "recording artist"], ["banjoist"], ["composer"], ["musician"], ["singer"], ["songwriter", "singer-songwriter"]]}
+{"SubjectEntity": "Akhurian River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["armenia"], ["turkey"]]}
+{"SubjectEntity": "Aldan", "Relation": "RiverBasinsCountry", "ObjectEntities": [["russia"]]}
+{"SubjectEntity": "Amur", "Relation": "RiverBasinsCountry", "ObjectEntities": [["china", "people's republic of china"], ["russia"]]}
+{"SubjectEntity": "Brahmaputra River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["bangladesh"], ["china", "people's republic of china"], ["india"], ["nepal"]]}
+{"SubjectEntity": "Columbia River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["canada"], ["united states of america", "usa"]]}
+{"SubjectEntity": "Donets", "Relation": "RiverBasinsCountry", "ObjectEntities": [["russia"], ["ukraine"]]}
+{"SubjectEntity": "Elbe", "Relation": "RiverBasinsCountry", "ObjectEntities": [["austria"], ["czech republic", "czechia"], ["germany"], ["poland"]]}
+{"SubjectEntity": "Essequibo River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["guyana"], ["venezuela"]]}
+{"SubjectEntity": "Flinders River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["australia"]]}
+{"SubjectEntity": "Fly River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["guinea", "papua new guinea"], ["indonesia"]]}
+{"SubjectEntity": "Fraser River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["canada"]]}
+{"SubjectEntity": "Ganges", "Relation": "RiverBasinsCountry", "ObjectEntities": [["bangladesh"], ["india"]]}
+{"SubjectEntity": "Gila River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["mexico", "new mexico"], ["united states of america", "usa"]]}
+{"SubjectEntity": "Han River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["korea", "north korea"], ["korea", "south korea"]]}
+{"SubjectEntity": "Irrawaddy River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["myanmar"]]}
+{"SubjectEntity": "Irtysh", "Relation": "RiverBasinsCountry", "ObjectEntities": [["china", "people's republic of china"], ["kazakhstan"], ["russia"]]}
+{"SubjectEntity": "Iskar", "Relation": "RiverBasinsCountry", "ObjectEntities": [["bulgaria"]]}
+{"SubjectEntity": "Jurua River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["brazil"], ["peru"]]}
+{"SubjectEntity": "Kama", "Relation": "RiverBasinsCountry", "ObjectEntities": [["russia"]]}
+{"SubjectEntity": "Kemijoki", "Relation": "RiverBasinsCountry", "ObjectEntities": [["finland"]]}
+{"SubjectEntity": "Kherlen River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["china", "people's republic of china"], ["mongolia"]]}
+{"SubjectEntity": "Kunar River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["afghanistan"], ["pakistan"]]}
+{"SubjectEntity": "Kura River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["azerbaijan"], ["georgia"], ["turkey"]]}
+{"SubjectEntity": "Kwango River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["angola"], ["congo", "democratic republic of the congo"]]}
+{"SubjectEntity": "Limpopo River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["africa", "south africa"], ["botswana"], ["mozambique"], ["zimbabwe"]]}
+{"SubjectEntity": "Litani River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["lebanon"]]}
+{"SubjectEntity": "Madeira River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["bolivia"], ["brazil"], ["peru"]]}
+{"SubjectEntity": "Madre de Dios River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["bolivia"], ["peru"]]}
+{"SubjectEntity": "Magdalena River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["colombia"]]}
+{"SubjectEntity": "Mekong River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["cambodia"], ["china", "people's republic of china"], ["laos"], ["myanmar"], ["thailand"], ["vietnam"]]}
+{"SubjectEntity": "Mur", "Relation": "RiverBasinsCountry", "ObjectEntities": [["austria"], ["croatia"], ["hungary"], ["slovenia"]]}
+{"SubjectEntity": "Neman", "Relation": "RiverBasinsCountry", "ObjectEntities": [["belarus"], ["latvia"], ["lithuania"], ["russia"]]}
+{"SubjectEntity": "Ogoou\u00e9 River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["congo", "republic of the congo"], ["gabon"]]}
+{"SubjectEntity": "Oka", "Relation": "RiverBasinsCountry", "ObjectEntities": [["russia"]]}
+{"SubjectEntity": "Olyokma", "Relation": "RiverBasinsCountry", "ObjectEntities": [["russia"]]}
+{"SubjectEntity": "Paraguay River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["argentina"], ["brazil"], ["paraguay"]]}
+{"SubjectEntity": "Red River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["china", "people's republic of china"], ["vietnam"]]}
+{"SubjectEntity": "Rio Negro", "Relation": "RiverBasinsCountry", "ObjectEntities": [["brazil"], ["colombia"], ["venezuela"]]}
+{"SubjectEntity": "R\u00edo Grande de Santiago", "Relation": "RiverBasinsCountry", "ObjectEntities": [["mexico"]]}
+{"SubjectEntity": "R\u00edo de la Plata", "Relation": "RiverBasinsCountry", "ObjectEntities": [["argentina"], ["uruguay"]]}
+{"SubjectEntity": "Saskatchewan River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["canada"]]}
+{"SubjectEntity": "Sava", "Relation": "RiverBasinsCountry", "ObjectEntities": [["bosnia and herzegovina"], ["croatia"], ["serbia"], ["slovenia"]]}
+{"SubjectEntity": "Shatt al-Arab", "Relation": "RiverBasinsCountry", "ObjectEntities": [["iran"], ["iraq"], ["kuwait"], ["saudi", "saudi arabia"], ["syria"], ["turkey"]]}
+{"SubjectEntity": "Shinano River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["japan"]]}
+{"SubjectEntity": "Tapaj\u00f3s River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["brazil"]]}
+{"SubjectEntity": "Ussuri", "Relation": "RiverBasinsCountry", "ObjectEntities": [["russia"]]}
+{"SubjectEntity": "Volta River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["ghana"]]}
+{"SubjectEntity": "Yalu River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["china", "people's republic of china"]]}
+{"SubjectEntity": "Yellow River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["china", "people's republic of china"]]}
+{"SubjectEntity": "Zambezi River", "Relation": "RiverBasinsCountry", "ObjectEntities": [["angola"], ["mozambique"], ["namibia"], ["zambia"], ["zimbabwe"]]}
+{"SubjectEntity": "Alagoas", "Relation": "StateSharesBorderState", "ObjectEntities": [["bahia"], ["pernambuco"], ["sergipe"]], "subj_type": "State"}
+{"SubjectEntity": "Auvergne", "Relation": "StateSharesBorderState", "ObjectEntities": [["burgundy"], ["centre-val de loire"], ["languedoc-roussillon"], ["limousin"], ["midi-pyrenees", "midi-pyr\u00e9n\u00e9es"], ["rhone-alpes", "rh\u00f4ne-alpes"]], "subj_type": "Region"}
+{"SubjectEntity": "Beheira Governorate", "Relation": "StateSharesBorderState", "ObjectEntities": [["alexandria", "alexandria governorate"], ["gharbia", "gharbia governorate"], ["giza", "giza governorate"], ["kafr el-sheikh", "kafr el-sheikh governorate"], ["matrouh", "matrouh governorate"], ["monufia", "monufia governorate"]], "subj_type": "Governorate"}
+{"SubjectEntity": "Berlin", "Relation": "StateSharesBorderState", "ObjectEntities": [["barnim", "barnim district"], ["brandenburg"], ["dahme-spreewald", "dahme-spreewald district"], ["havelland", "havelland district"], ["kleinmachnow"], ["markisch-oderland", "m\u00e4rkisch-oderland district"], ["oberhavel", "oberhavel district"], ["oder-spree", "oder-spree district"], ["potsdam"], ["potsdam-mittelmark", "potsdam-mittelmark district"], ["stahnsdorf"], ["teltow-flaming", "teltow-fl\u00e4ming district"]], "subj_type": "State"}
+{"SubjectEntity": "Buenos Aires Province", "Relation": "StateSharesBorderState", "ObjectEntities": [["buenos aires"], ["colonia", "colonia department"], ["cordoba", "c\u00f3rdoba province"], ["entre rios", "entre r\u00edos province"], ["la pampa"], ["rio negro", "r\u00edo negro province"], ["santa fe", "santa fe province"]], "subj_type": "Province"}
+{"SubjectEntity": "Canton of Mersch", "Relation": "StateSharesBorderState", "ObjectEntities": [["canton of capellen", "capellen"], ["canton of diekirch", "diekirch"], ["canton of echternach", "echternach"], ["canton of grevenmacher", "grevenmacher"], ["canton of luxembourg", "luxembourg"], ["canton of redange", "redange"]], "subj_type": ""}
+{"SubjectEntity": "Canton of Redange", "Relation": "StateSharesBorderState", "ObjectEntities": [["arrondissement of arlon"], ["arrondissement of bastogne"], ["canton of capellen", "capellen"], ["canton of diekirch", "diekirch"], ["canton of mersch", "mersch"], ["canton of wiltz", "wiltz"]], "subj_type": ""}
+{"SubjectEntity": "Catamarca Province", "Relation": "StateSharesBorderState", "ObjectEntities": [["antofagasta", "antofagasta region"], ["atacama", "atacama region"], ["cordoba", "c\u00f3rdoba province"], ["la rioja", "la rioja province"], ["salta", "salta province"], ["santiago del estero", "santiago del estero province"], ["tucuman", "tucum\u00e1n province"]], "subj_type": "Province"}
+{"SubjectEntity": "C\u00f3rdoba Province", "Relation": "StateSharesBorderState", "ObjectEntities": [["buenos aires", "buenos aires province"], ["catamarca", "catamarca province"], ["la pampa"], ["la rioja", "la rioja province"], ["san luis", "san luis province"], ["santa fe", "santa fe province"], ["santiago del estero", "santiago del estero province"]], "subj_type": "Province"}
+{"SubjectEntity": "Delaware", "Relation": "StateSharesBorderState", "ObjectEntities": [["maryland"], ["new jersey"], ["pennsylvania"]], "subj_type": "State"}
+{"SubjectEntity": "Drenthe", "Relation": "StateSharesBorderState", "ObjectEntities": [["county of bentheim"], ["emsland"], ["friesland"], ["groningen"], ["lower saxony"], ["overijssel"]], "subj_type": "Province"}
+{"SubjectEntity": "Esp\u00edrito Santo", "Relation": "StateSharesBorderState", "ObjectEntities": [["bahia"], ["minas gerais"], ["rio de janeiro"]], "subj_type": "State"}
+{"SubjectEntity": "Formosa Province", "Relation": "StateSharesBorderState", "ObjectEntities": [["boqueron", "boquer\u00f3n department"], ["central", "central department"], ["chaco", "chaco province"], ["neembucu", "\u00f1eembuc\u00fa department"], ["presidente hayes"], ["salta", "salta province"]], "subj_type": "Province"}
+{"SubjectEntity": "Friesland", "Relation": "StateSharesBorderState", "ObjectEntities": [["drenthe"], ["flevoland"], ["groningen"], ["holland", "north holland"], ["overijssel"]], "subj_type": "Province"}
+{"SubjectEntity": "Holgu\u00edn Province", "Relation": "StateSharesBorderState", "ObjectEntities": [["granma", "granma province"], ["guantanamo", "guant\u00e1namo province"], ["las tunas", "las tunas province"], ["santiago de cuba", "santiago de cuba province"]], "subj_type": "Province"}
+{"SubjectEntity": "Illinois", "Relation": "StateSharesBorderState", "ObjectEntities": [["indiana"], ["iowa"], ["kentucky"], ["michigan"], ["missouri"], ["wisconsin"]], "subj_type": "State"}
+{"SubjectEntity": "Kainuu", "Relation": "StateSharesBorderState", "ObjectEntities": [["karelia"], ["karelia", "north karelia"], ["northern ostrobothnia", "ostrobothnia"], ["northern savonia", "savonia"]], "subj_type": "Region"}
+{"SubjectEntity": "La Pampa", "Relation": "StateSharesBorderState", "ObjectEntities": [["buenos aires", "buenos aires province"], ["cordoba", "c\u00f3rdoba province"], ["mendoza"], ["neuquen", "neuqu\u00e9n province"], ["rio negro", "r\u00edo negro province"], ["san luis", "san luis province"]], "subj_type": "Province"}
+{"SubjectEntity": "Lazio", "Relation": "StateSharesBorderState", "ObjectEntities": [["abruzzo"], ["campania"], ["marche"], ["molise"], ["tuscany"], ["umbria"]], "subj_type": "Region"}
+{"SubjectEntity": "Maine", "Relation": "StateSharesBorderState", "ObjectEntities": [["new brunswick"], ["new hampshire"], ["quebec"]], "subj_type": "State"}
+{"SubjectEntity": "Maryland", "Relation": "StateSharesBorderState", "ObjectEntities": [["delaware"], ["district of columbia"], ["pennsylvania"], ["virginia"], ["west virginia"]], "subj_type": "State"}
+{"SubjectEntity": "Mato Grosso", "Relation": "StateSharesBorderState", "ObjectEntities": [["amazonas"], ["goias", "goi\u00e1s"], ["mato grosso do sul"], ["para", "par\u00e1"], ["rondonia", "rond\u00f4nia"], ["santa cruz", "santa cruz department"], ["tocantins"]], "subj_type": "State"}
+{"SubjectEntity": "Minas Gerais", "Relation": "StateSharesBorderState", "ObjectEntities": [["bahia"], ["espirito santo", "esp\u00edrito santo"], ["federal", "federal district"], ["goias", "goi\u00e1s"], ["mato grosso do sul"], ["rio de janeiro"], ["sao paulo", "s\u00e3o paulo"]], "subj_type": "State"}
+{"SubjectEntity": "Minya Governorate", "Relation": "StateSharesBorderState", "ObjectEntities": [["asyut", "asyut governorate"], ["beni suef", "beni suef governorate"], ["giza", "giza governorate"], ["new valley", "new valley governorate"], ["red sea", "red sea governorate"]], "subj_type": "Governorate"}
+{"SubjectEntity": "Nakhon Ratchasima", "Relation": "StateSharesBorderState", "ObjectEntities": [["buri ram"], ["chaiyaphum"], ["khon kaen"], ["lopburi"], ["nakhon nayok"], ["prachin buri"], ["sa kaeo"], ["saraburi"]], "subj_type": "Province"}
+{"SubjectEntity": "New Valley Governorate", "Relation": "StateSharesBorderState", "ObjectEntities": [["aswan", "aswan governorate"], ["asyut", "asyut governorate"], ["giza", "giza governorate"], ["luxor", "luxor governorate"], ["matrouh", "matrouh governorate"], ["minya", "minya governorate"], ["qena", "qena governorate"], ["sohag", "sohag governorate"]], "subj_type": "Governorate"}
+{"SubjectEntity": "Overijssel", "Relation": "StateSharesBorderState", "ObjectEntities": [["county of bentheim"], ["drenthe"], ["flevoland"], ["friesland"], ["gelderland"], ["lower saxony"], ["north rhine-westphalia", "rhine-westphalia"]], "subj_type": "Province"}
+{"SubjectEntity": "Pennsylvania", "Relation": "StateSharesBorderState", "ObjectEntities": [["delaware"], ["maryland"], ["new jersey"], ["new york"], ["ohio"], ["ontario"], ["virginia", "west virginia"]], "subj_type": "State"}
+{"SubjectEntity": "Piau\u00ed", "Relation": "StateSharesBorderState", "ObjectEntities": [["bahia"], ["ceara", "cear\u00e1"], ["maranhao", "maranh\u00e3o"], ["pernambuco"], ["tocantins"]], "subj_type": "State"}
+{"SubjectEntity": "P\u00e4ij\u00e4nne Tavastia", "Relation": "StateSharesBorderState", "ObjectEntities": [["central finland", "finland"], ["kymenlaakso"], ["pirkanmaa"], ["savonia", "southern savonia"], ["tavastia proper"], ["uusimaa"]], "subj_type": "Region"}
+{"SubjectEntity": "Qena Governorate", "Relation": "StateSharesBorderState", "ObjectEntities": [["aswan", "aswan governorate"], ["luxor", "luxor governorate"], ["new valley", "new valley governorate"], ["red sea", "red sea governorate"], ["sohag", "sohag governorate"]], "subj_type": "Governorate"}
+{"SubjectEntity": "Rio Grande do Norte", "Relation": "StateSharesBorderState", "ObjectEntities": [["ceara", "cear\u00e1"], ["paraiba", "para\u00edba"]], "subj_type": "State"}
+{"SubjectEntity": "Rio de Janeiro", "Relation": "StateSharesBorderState", "ObjectEntities": [["espirito santo", "esp\u00edrito santo"], ["minas gerais"], ["sao paulo", "s\u00e3o paulo"]], "subj_type": "State"}
+{"SubjectEntity": "Roraima", "Relation": "StateSharesBorderState", "ObjectEntities": [["amazonas"], ["bolivar", "bol\u00edvar"], ["cuyuni-mazaruni"], ["para", "par\u00e1"], ["potaro-siparuni"], ["upper takutu-upper essequibo"]], "subj_type": "State"}
+{"SubjectEntity": "San Juan Province", "Relation": "StateSharesBorderState", "ObjectEntities": [["atacama", "atacama region"], ["coquimbo", "coquimbo region"], ["la rioja", "la rioja province"], ["mendoza"], ["san luis", "san luis province"], ["valparaiso", "valpara\u00edso region"]], "subj_type": "Province"}
+{"SubjectEntity": "Santa Cruz Province", "Relation": "StateSharesBorderState", "ObjectEntities": [["aysen", "ays\u00e9n region"], ["chubut", "chubut province"], ["magellan and the chilean antarctic", "magellan and the chilean antarctic region"], ["tierra del fuego, antarctica and south atlantic islands province"]], "subj_type": "Province"}
+{"SubjectEntity": "Santiago del Estero Province", "Relation": "StateSharesBorderState", "ObjectEntities": [["catamarca", "catamarca province"], ["chaco", "chaco province"], ["cordoba", "c\u00f3rdoba province"], ["salta", "salta province"], ["santa fe", "santa fe province"], ["tucuman", "tucum\u00e1n province"]], "subj_type": "Province"}
+{"SubjectEntity": "Sergipe", "Relation": "StateSharesBorderState", "ObjectEntities": [["alagoas"], ["bahia"]], "subj_type": "State"}
+{"SubjectEntity": "South Carolina", "Relation": "StateSharesBorderState", "ObjectEntities": [["carolina", "north carolina"], ["georgia"]], "subj_type": "State"}
+{"SubjectEntity": "South Dakota", "Relation": "StateSharesBorderState", "ObjectEntities": [["dakota", "north dakota"], ["iowa"], ["minnesota"], ["montana"], ["nebraska"], ["wyoming"]], "subj_type": "State"}
+{"SubjectEntity": "Tennessee", "Relation": "StateSharesBorderState", "ObjectEntities": [["alabama"], ["arkansas"], ["carolina", "north carolina"], ["georgia"], ["kentucky"], ["mississippi"], ["missouri"], ["virginia"]], "subj_type": "State"}
+{"SubjectEntity": "Texas", "Relation": "StateSharesBorderState", "ObjectEntities": [["arkansas"], ["chihuahua"], ["coahuila"], ["louisiana"], ["new mexico"], ["nuevo leon", "nuevo le\u00f3n"], ["oklahoma"], ["tamaulipas", "tamaulipas state"]], "subj_type": "State"}
+{"SubjectEntity": "Tocantins", "Relation": "StateSharesBorderState", "ObjectEntities": [["bahia"], ["goias", "goi\u00e1s"], ["maranhao", "maranh\u00e3o"], ["mato grosso"], ["para", "par\u00e1"], ["piaui", "piau\u00ed"]], "subj_type": "State"}
+{"SubjectEntity": "Tucum\u00e1n Province", "Relation": "StateSharesBorderState", "ObjectEntities": [["catamarca", "catamarca province"], ["salta", "salta province"], ["santiago del estero", "santiago del estero province"]], "subj_type": "Province"}
+{"SubjectEntity": "Utrecht", "Relation": "StateSharesBorderState", "ObjectEntities": [["flevoland"], ["gelderland"], ["holland", "north holland"], ["holland", "south holland"]], "subj_type": "Province"}
+{"SubjectEntity": "Uusimaa", "Relation": "StateSharesBorderState", "ObjectEntities": [["finland proper"], ["kymenlaakso"], ["paijanne tavastia", "p\u00e4ij\u00e4nne tavastia"], ["tavastia proper"]], "subj_type": "Region"}
+{"SubjectEntity": "Virginia", "Relation": "StateSharesBorderState", "ObjectEntities": [["carolina", "north carolina"], ["district of columbia"], ["kentucky"], ["maryland"], ["tennessee"], ["virginia", "west virginia"]], "subj_type": "State"}
+{"SubjectEntity": "Vorarlberg", "Relation": "StateSharesBorderState", "ObjectEntities": [["baden-wurttemberg", "baden-w\u00fcrttemberg"], ["bavaria"], ["canton of st. gallen", "st. gallen"], ["grisons"], ["liechtenstein"], ["tyrol"]], "subj_type": "State"}
+{"SubjectEntity": "West Virginia", "Relation": "StateSharesBorderState", "ObjectEntities": [["kentucky"], ["maryland"], ["ohio"], ["pennsylvania"], ["virginia"]], "subj_type": "State"}
+{"SubjectEntity": "Wisconsin", "Relation": "StateSharesBorderState", "ObjectEntities": [["illinois"], ["iowa"], ["michigan"], ["minnesota"], ["ontario"]], "subj_type": "State"}
